@@ -1,0 +1,17 @@
+﻿1
+00:00:00,000 --> 00:00:02,400
+Ce film n’a pas été joué par des acteurs
+
+
+2
+00:00:02,400 --> 00:00:05,500
+mais vécu par des hommes et des femmes
+
+3
+00:00:05,500 --> 00:00:08,300
+qui ont donné des moments de leur existence
+
+
+4
+00:00:08,300 --> 00:00:11,410
+à une expérience nouvelle de cinéma vérité.

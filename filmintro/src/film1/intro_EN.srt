@@ -1,0 +1,17 @@
+﻿1
+00:00:00,000 --> 00:00:02,400
+This film was not acted by actors
+
+
+2
+00:00:02,400 --> 00:00:05,500
+ but experienced by men and women,
+
+3
+00:00:05,500 --> 00:00:08,300
+who gave moments of their lives
+
+
+4
+00:00:08,300 --> 00:00:11,410
+to a new experience of cinéma vérité.
