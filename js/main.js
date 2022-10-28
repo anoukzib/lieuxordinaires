@@ -1,7 +1,3 @@
-if (window.location.protocol != "http:") {
-   window.location.protocol = "http:";
-   window.location.reload();
-}
 
 window.addEventListener('load', function() {
 
