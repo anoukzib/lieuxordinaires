@@ -1,3 +1,8 @@
+if (window.location.protocol != "http:") {
+   window.location.protocol = "http:";
+   window.location.reload();
+}
+
 window.addEventListener('load', function() {
 
     //console.log("hello");
@@ -52,12 +57,6 @@ window.addEventListener('load', function() {
           });
     }
 
- 
-if (location.protocol !== 'http:') {
-    location.replace(`http:${location.href.substring(location.protocol.length)}`);
-}
-
-      
 
     // let container = document.querySelector('.main-container'),
     //     imgs = document.querySelector('.background-container').children,
