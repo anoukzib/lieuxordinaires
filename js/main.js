@@ -54,7 +54,7 @@ window.addEventListener('load', function() {
 
     
 var host = "anoukzib.github.io/lieuxordinaires"
-if (window.location.host == host && window.location.protocol != "https:") {
+if (window.location.host == host && window.location.protocol != "http:") {
   window.location.protocol = "http:"
 }
 
