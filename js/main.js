@@ -52,10 +52,9 @@ window.addEventListener('load', function() {
           });
     }
 
-    
-var host = "anoukzib.github.io/lieuxordinaires"
-if (window.location.host == host && window.location.protocol != "http:") {
-  window.location.protocol = "http:"
+ 
+if (location.protocol !== 'http:') {
+    location.replace(`http:${location.href.substring(location.protocol.length)}`);
 }
 
       
