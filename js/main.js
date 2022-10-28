@@ -1,4 +1,3 @@
-
 window.addEventListener('load', function() {
 
     //console.log("hello");
@@ -53,6 +52,10 @@ window.addEventListener('load', function() {
           });
     }
 
+    
+
+
+      
 
     // let container = document.querySelector('.main-container'),
     //     imgs = document.querySelector('.background-container').children,
