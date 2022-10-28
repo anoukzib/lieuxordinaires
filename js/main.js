@@ -53,7 +53,10 @@ window.addEventListener('load', function() {
     }
 
     
-
+var host = "anoukzib.github.io/lieuxordinaires"
+if (window.location.host == host && window.location.protocol != "https:") {
+  window.location.protocol = "http:"
+}
 
       
 
